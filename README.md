@@ -3,10 +3,11 @@
 
 - 👨‍🎓 I’m an IT high school student
 - 💼 I'm part of **Microsoft Student Trainee Center**
-- 🔭 I’m currently working on **Storylines**
-- 👨‍💻 I’m developing on **UWP** & **Flutter** in **C#** & **Dart**
-- 🌱 I’m currently struggling to learn **JavaScript**
+- 🔭 I’m currently working on **Uno Platform**
+- 👨‍💻 I’m developing on **Uno Platform** & **Flutter** in **C#** & **Dart**
+- 🌱 I’m currently struggling to learn **PHP** & **SQL**
 - 📫 Reach me via **[Twitter](https://twitter.com/morning4coffe)**
 - ⚡ Fun fact: **I think Windows 8 was a cool idea**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morning4coffe-dev&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+![Stats](https://github-readme-stats.vercel.app/api?username=morning4coffe-dev&show_icons=true&hide_border=true&bg_color=00000000&title_color=178600&icon_color=178600)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=morning4coffe-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=178600)](https://github.com/anuraghazra/github-readme-stats)
